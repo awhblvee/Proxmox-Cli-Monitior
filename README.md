@@ -18,7 +18,7 @@ A lightweight, command-line Python utility designed to monitor your Proxmox VE h
 Make sure you have Python installed on your system. Place your `main.py` script into a local project directory, then install the required third-party dependencies:
 
 ```bash
-pip install proxmoxer python-dotenv requests
+pip install -r requirements.txt
 ```
 
 ---
